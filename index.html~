@@ -4,7 +4,7 @@
 <title>lapisdecor</title>
 
 <meta name="author" content="T" >
-<meta name="date" content="2014-12-16T22:02:51+0000" >
+<meta name="date" content="2014-12-16T21:55:34+0000" >
 
 <meta name="keywords" content="stuff">
 <meta name="description" content="something I don't know yet what will be">
@@ -16,8 +16,6 @@
 <link rel="stylesheet" href="lapis.css" type="text/css"/>
 </head>
 <body>
-<h1>These are my current projects</h1>
-<h3>Android projects</h3>
-<p>I'm currently making an app.</p>
+
 </body>
 </html>
